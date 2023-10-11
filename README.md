@@ -1,2 +1,9 @@
 # diabetes-prediction
-In this project, our objective is to predict whether the patient has diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will perform all the steps from Data gathering to Model deployment. During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Flask which is a python micro framework.
+The successful completion of this project will result in a robust and interpretable 
+machine learning model for diabetes risk prediction. This model can be integrated into 
+healthcare systems, providing healthcare professionals with a valuable tool to identify at-risk 
+individuals and tailor treatment plans accordingly.
+Ultimately, our project aims to contribute to the advancement of healthcare by harnessing the 
+potential of artificial intelligence to improve the lives of those affected by diabetes. By 
+enhancing early diagnosis and personalized care, we aspire to reduce the impact of diabetes 
+on individuals and communities.
