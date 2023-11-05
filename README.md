@@ -3,8 +3,9 @@
 
 Introduction:
 
-    This README file provides instructions on how to run the code for predicting diabetes outcomes
-    using machine learning. The code includes data preprocessing, model building, hyperparameter tuning, and performance evaluation.
+    1)This README file provides instructions on how to run the code for predicting diabetes outcomes
+    using machine learning. 
+    2)The code includes data preprocessing, model building, hyperparameter tuning, and performance evaluation.
     
 DEPENDENCIES:
 
