@@ -1,8 +1,13 @@
-########### ------->DIABETES PREDICTION CODE README<------ ###################
+########### ------->DIABETES PREDICTION CODE README<------ ##############
+
+
 Introduction:
-    This README file provides instructions on how to run the code for predicting diabetes outcomes using machine learning. The code includes data preprocessing, model building, hyperparameter tuning, and performance evaluation.
+
+    This README file provides instructions on how to run the code for predicting diabetes outcomes
+    using machine learning. The code includes data preprocessing, model building, hyperparameter tuning, and performance evaluation.
     
 DEPENDENCIES:
+
      Before running the code, make sure you have the following dependencies installed:
 #Python (>=3.6)
 #NumPy
@@ -12,6 +17,7 @@ DEPENDENCIES:
 #Scikit-Learn
 
 IN COLAB NOTEBOOK:
+
         We can read a dataset using "pd.read_csv('diabetes.csv')"
 IN THIS COLAB NOTEBOOK WE LOAD THE DATASET USING THE NAME "diabetes_dataset".
 
